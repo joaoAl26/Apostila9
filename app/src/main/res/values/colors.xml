@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="amaranth">#E63757</color>
+    <color name="outer_space">#404D4F</color>
+    <color name="aero">#52BDE0</color>
+    <color name="silver">#ADADAD</color>
+    <color name="platinum">#E0E1E1</color>
+</resources>
